@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Basics Theme Demo"
+theme = "basics"
+
+[params]
+    author = "Author Name"
