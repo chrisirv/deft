@@ -23,4 +23,5 @@ fields:
     schema:
       format: markdown
 pages:
+- content/post/my-first-post.md
 - content/post/second-post.md
