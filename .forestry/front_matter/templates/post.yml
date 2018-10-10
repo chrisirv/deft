@@ -23,6 +23,7 @@ fields:
     schema:
       format: markdown
 pages:
+- content/post/forth-post.md
 - content/post/third-post.md
 - content/post/my-first-post.md
 - content/post/second-post.md
