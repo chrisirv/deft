@@ -1,0 +1,28 @@
+---
+label: Post
+hide_body: false
+is_partial: false
+fields:
+- type: datetime
+  name: date
+  label: date
+  description: Posting Date
+  config:
+    required: true
+- type: text
+  name: subject
+  label: subject
+  config:
+    required: true
+  description: Posting Subject
+- type: textarea
+  name: text
+  label: text
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+pages:
+- content/post/third-post.md
+- content/post/my-first-post.md
+- content/post/second-post.md
