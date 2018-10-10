@@ -8,3 +8,5 @@ deft
 neatly skillful and quick in one's movements.
 
 demonstrating skill and cleverness.
+
+![](/uploads/5533710.jpg)
