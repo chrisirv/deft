@@ -6,9 +6,15 @@ fields:
 - type: datetime
   name: date
   label: date
+  description: Posting Date
+  config:
+    required: true
 - type: text
   name: subject
   label: subject
+  config:
+    required: true
+  description: Posting Subject
 - type: textarea
   name: text
   label: text
