@@ -22,10 +22,6 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
-- type: field_group
-  name: footer
-  label: footer
-  description: footer
 pages:
 - content/post/forth-post.md
 - content/post/third-post.md
