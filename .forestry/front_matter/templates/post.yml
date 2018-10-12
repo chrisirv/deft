@@ -22,7 +22,9 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+    required: true
 pages:
+- content/post/kathy-post.md
 - content/post/example-demo-site.md
 - content/post/forth-post.md
 - content/post/third-post.md
