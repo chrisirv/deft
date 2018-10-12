@@ -24,6 +24,7 @@ fields:
       format: markdown
     required: true
 pages:
+- content/contact-us.md
 - content/post/kathy-post.md
 - content/post/example-demo-site.md
 - content/post/forth-post.md
