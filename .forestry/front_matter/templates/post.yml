@@ -24,7 +24,6 @@ fields:
       format: markdown
     required: true
 pages:
-- content/post/test.md
 - content/post/kathy-post.md
 - content/contact-us.md
 - content/post/my-first-post.md
