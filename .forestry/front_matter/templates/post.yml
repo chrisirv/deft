@@ -1,7 +1,6 @@
 ---
 label: Post
 hide_body: false
-is_partial: false
 fields:
 - type: datetime
   name: date
@@ -24,11 +23,12 @@ fields:
       format: markdown
     required: true
 pages:
-- content/post/kathy-post.md
+- content/post/test.md
+- content/post/post-for-peter.md
 - content/contact-us.md
+- content/post/kathy-post.md
+- content/post/example-demo-site.md
+- content/post/forth-post.md
+- content/post/third-post.md
 - content/post/my-first-post.md
 - content/post/second-post.md
-- content/post/third-post.md
-- content/post/forth-post.md
-- content/post/example-demo-site.md
-- content/post/post-for-peter.md
